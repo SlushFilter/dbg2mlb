@@ -31,4 +31,4 @@ Usage : dbg2mlb <input dbg file> <output mlb file> [-b:<base>] [-e:<W | S>]
 ```
 ## Authors
 SlushFilter
-[@SlushFilter](https://github.com/slushfilter)
+[Github - Ohwaityourealreadyhere](https://github.com/slushfilter)
